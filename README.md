@@ -1,46 +1,13 @@
-# C-Sharp-2
+A collection of projects and logic implementations developed during my intensive deep-dive into the .NET ecosystem. This repository tracks my transition from core OOP principles to full-stack web architecture.
 
+## 🚀 Key Features
+* **Full-Stack MVC:** Implementation of the Car Insurance Pro-rata engine using ASP.NET.
+* **Database Integration:** Seamless data persistence using Entity Framework and SQL Server.
+* **Advanced OOP:** Deep utilization of interfaces, inheritance, and operator overloading.
+* **Business Logic:** Real-world calculation engines and model validation.
 
-## C# Projects Repository
-Welcome to my C# learning repository! This collection highlights the projects and exercises I completed while studying C# and the .NET framework. Each project reflects practical, hands‑on experience with core programming concepts and real application development.
-
-📌##  Repository Contents
-Core C# Practice
-Object‑oriented programming
-
-Classes, methods, and interfaces
-
-Inheritance and polymorphism
-
-Operator overloading
-
-Reusable and maintainable code structure
-
-ASP.NET MVC Web Application
-A full multi‑page web app built using:
-
-Controllers, models, and views
-
-Entity Framework for database operations
-
-SQL Server integration
-
-Form handling and validation
-
-CRUD functionality
-
-Business logic for generating insurance quotes
-
-## 🛠 Technologies Used
-C#
-
-.NET / .NET Core
-
-ASP.NET MVC
-
-Entity Framework
-
-SQL Server
-
-## 🎯 Purpose
-This repository documents my progress as I continue developing my skills in C# and .NET. It includes both foundational exercises and complete applications that demonstrate real‑world development workflows.
+## 🛠 Tech Stack
+* **Language:** C#
+* **Framework:** .NET / ASP.NET MVC
+* **ORM:** Entity Framework
+* **Database:** MS SQL Server
